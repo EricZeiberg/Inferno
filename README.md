@@ -1,4 +1,4 @@
 Inferno
 =======
 
-A TDM plugin
+A PvP match plugin

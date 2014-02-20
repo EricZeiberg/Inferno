@@ -1,0 +1,5 @@
+name: Inferno
+author: MasterEjzz
+main: me.masterejay.inferno.Inferno
+version: 1.0
+depend: [WorldEdit]

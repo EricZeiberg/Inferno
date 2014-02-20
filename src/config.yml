@@ -1,0 +1,40 @@
+observer:
+  x:
+  y:
+  z:
+
+red:
+  x:
+  y:
+  z:
+
+blue:
+  x:
+  y:
+  z:
+
+# This number of points get awarded every time you kill someone
+ppk: 5
+
+
+
+# Number of points required to win
+pointsToWin: 10
+
+# If the score reaches any multiple of this number, it will be broadcast
+pointsToBroadcast: 10
+
+# No spaces between the commas and make sure to have the dash with a space in front
+kit:
+  - <ItemID>,<Slot>,<Amount>,<Permission>,<Team>
+
+settings:
+  breakBlocks: true
+
+# Size must be a multiple of 9. Also, don't use / in command and color signs are supported (§)
+shop:
+  pointsPerKill: 5
+  size: 9
+  shopItem: <ItemID>,<Name>
+  items:
+    - <ItemID>,<Slot>,<Name>,<Command>,<Price>
