@@ -12,9 +12,9 @@ public class MatchStartCountdown extends Countdown {
     @Override
     public void onEnd() {
 	    MatchHandler.start();
-        Bukkit.broadcastMessage(ChatColor.DARK_PURPLE + "############");
-        Bukkit.broadcastMessage(ChatColor.GREEN + "The match has started!");
-        Bukkit.broadcastMessage(ChatColor.DARK_PURPLE + "############");
+        Bukkit.broadcastMessage(ChatColor.DARK_PURPLE + "##################");
+        Bukkit.broadcastMessage(ChatColor.GREEN + "##The match has started!##");
+        Bukkit.broadcastMessage(ChatColor.DARK_PURPLE + "##################");
 
 }
 
